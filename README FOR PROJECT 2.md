@@ -1,13 +1,13 @@
 # NEXUS — Rule-Based AI Chatbot 🤖
 
-> **DecodeLabs Batch 2026 | Artificial Intelligence | Project 1**  
+> **Practice Work 2026 | Artificial Intelligence | Project 1**  
 > Developer: **Jay Pandya** | [GitHub](https://github.com/PandyaJayTejas)
 
 ---
 
 ## What is this?
 
-NEXUS is a rule-based AI chatbot built in Python as part of the **DecodeLabs Industrial Training 2026**.  
+NEXUS is a rule-based AI chatbot built in Python as part of the **Practice Work 2026**.  
 It responds to predefined user inputs using **dictionary-based O(1) lookup** — no machine learning, no APIs, pure programmatic logic.
 
 ---
@@ -32,8 +32,8 @@ It responds to predefined user inputs using **dictionary-based O(1) lookup** —
 
 ```bash
 # Clone the repo
-git clone https://github.com/PandyaJayTejas/DecodeLabs-Internship.git
-cd DecodeLabs-Internship
+git clone https://github.com/PandyaJayTejas/Practice-Work.git
+cd Practice-Work
 
 # Run the chatbot
 python nexus_chatbot.py
@@ -46,7 +46,7 @@ python nexus_chatbot.py
 ```
 ══════════════════════════════════════════════════════════
    NEXUS — Rule-Based AI Chatbot
-   DecodeLabs Batch 2026  |  Built by Jay Pandya
+   Practice Work 2026  |  Built by Jay Pandya
 ══════════════════════════════════════════════════════════
 
 You    → hello
@@ -107,10 +107,9 @@ Print Response → Loop
 
 ## About
 
-Built as **Project 1** of the DecodeLabs Batch 2026 Industrial Training.  
+Built as **Project 1** of the Practice Work 2026.  
 This project covers foundational AI concepts — specifically **deterministic rule-based systems** — before advancing to machine learning in later projects.
 
 ---
 
-*"An LLM without rules is a hallucination engine. Today, we build the skeleton that holds the intelligence."*  
-— DecodeLabs
+*"An LLM without rules is a hallucination engine. Today, we build the skeleton that holds the intelligence."*

@@ -1,8 +1,8 @@
 # Artificial Intelligence Portfolio 🤖
 
-## DecodeLabs Batch 2026
+## Practice Work 2026
 
-Welcome to my Artificial Intelligence project portfolio. This repository contains a collection of Python-based projects developed as part of the DecodeLabs AI Track. Each project explores a different AI-related concept, ranging from rule-based systems and sentiment analysis to adaptive learning applications.
+Welcome to my Artificial Intelligence project portfolio. This repository contains a collection of Python-based projects developed as practice work on AI concepts. Each project explores a different AI-related concept, ranging from rule-based systems and sentiment analysis to adaptive learning applications.
 
 ---
 

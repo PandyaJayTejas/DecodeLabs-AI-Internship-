@@ -1,6 +1,6 @@
 # ================================================================
 #  NEXUS — Rule-Based AI Chatbot
-#  DecodeLabs Batch 2026 | Artificial Intelligence | Project 1
+#  Practice Work 2026 | Artificial Intelligence | Project 1
 #  Developer : Jay Pandya
 #  GitHub    : github.com/PandyaJayTejas
 # ================================================================
@@ -32,11 +32,11 @@ RESPONSES = {
 
     # ── Identity ───────────────────────────────────────────────
     "who are you"      : ["I'm NEXUS — a rule-based AI chatbot built by Jay Pandya "
-                          "for DecodeLabs Batch 2026.",
+                          "for Practice Work 2026.",
                           "NEXUS: Neural EXpert Utility System. Pure logic, zero hallucinations."],
     "what is your name": ["My name is NEXUS.", "They call me NEXUS."],
     "your name"        : ["NEXUS. Remember it."],
-    "who made you"     : ["Jay Pandya, AIML student at DPG Polytechnic — built me for DecodeLabs 2026.",
+    "who made you"     : ["Jay Pandya, AIML student at DPG Polytechnic — built me for Practice Work 2026.",
                           "My creator is Jay Pandya."],
     "who built you"    : ["Jay Pandya did. Check github.com/PandyaJayTejas for the source code."],
 
@@ -173,7 +173,7 @@ def boot_sequence():
     banner = f"""
 {'═' * 58}
    {BOT_NAME} — Rule-Based AI Chatbot
-   DecodeLabs Batch 2026  |  Built by {AUTHOR}
+   Practice Work 2026  |  Built by {AUTHOR}
 {'═' * 58}
    Commands : ask anything in plain English
    Exit     : type  exit / quit / bye

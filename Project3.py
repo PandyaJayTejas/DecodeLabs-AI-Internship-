@@ -1,6 +1,6 @@
 # ================================================================
 #  AI QUIZ BOT — Adaptive Knowledge Testing System
-#  DecodeLabs Batch 2026 | Artificial Intelligence | Project 3
+#  Practice Work 2026 | Artificial Intelligence | Project 3
 #  Developer : Jay Pandya
 #  GitHub    : github.com/PandyaJayTejas
 #
@@ -302,7 +302,7 @@ def select_topic() -> tuple:
 def main():
     print("\n" + "═" * 55)
     print("   AI QUIZ BOT 🤖")
-    print("   DecodeLabs Batch 2026  |  Built by Jay Pandya")
+    print("   Practice Work 2026  |  Built by Jay Pandya")
     print("═" * 55)
 
     while True:

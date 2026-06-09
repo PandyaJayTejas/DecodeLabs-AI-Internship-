@@ -1,6 +1,6 @@
 # ================================================================
 #  SENTIMENT ANALYZER — Keyword-Based Text Analysis Tool
-#  DecodeLabs Batch 2026 | Artificial Intelligence | Project 2
+#  Practice Work 2026 | Artificial Intelligence | Project 2
 #  Developer : Jay Pandya
 #  GitHub    : github.com/PandyaJayTejas
 #
@@ -181,7 +181,7 @@ def batch_mode():
 def main():
     print("\n" + "═" * 55)
     print("   SENTIMENT ANALYZER")
-    print("   DecodeLabs Batch 2026  |  Built by Jay Pandya")
+    print("   Practice Work 2026  |  Built by Jay Pandya")
     print("═" * 55)
     print("   Type any text to analyze its sentiment.")
     print("   Commands: 'batch' | 'exit'")

@@ -2,7 +2,7 @@
 
 A Python-based sentiment analysis tool that determines whether a piece of text expresses a positive, negative, or neutral opinion. Instead of using machine learning, it relies on weighted keyword scoring and smart negation handling to analyze sentiment quickly and accurately.
 
-This project was developed as **Project 2** for the **Artificial Intelligence Track** at **DecodeLabs Batch 2026**.
+This project was developed as **Project 2** for the **Artificial Intelligence Track** at **Practice Work 2026**.
 
 ---
 
@@ -94,7 +94,7 @@ python Project1.py
 ```text
 ═══════════════════════════════════════════════════════
    SENTIMENT ANALYZER
-   DecodeLabs Batch 2026 | Built by Jay Pandya
+   Practice Work 2026 | Built by Jay Pandya
 ═══════════════════════════════════════════════════════
 
 Enter text →

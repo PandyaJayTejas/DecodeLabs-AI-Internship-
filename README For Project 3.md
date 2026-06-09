@@ -2,7 +2,7 @@
 
 An interactive terminal-based quiz application built with Python. The AI Quiz Bot helps users test their knowledge across multiple topics while providing instant explanations, performance tracking, and personalized feedback to support learning.
 
-This project was developed as **Project 3** for the **Artificial Intelligence Track** at **DecodeLabs Batch 2026**.
+This project was developed as **Project 3** for the **Artificial Intelligence Track** at **Practice Work 2026**.
 
 ---
 
@@ -91,7 +91,7 @@ python Project3.py
 ```text
 ═══════════════════════════════════════════════════════
    AI QUIZ BOT 🤖
-   DecodeLabs Batch 2026 | Built by Jay Pandya
+   Practice Work 2026 | Built by Jay Pandya
 ═══════════════════════════════════════════════════════
 
 SELECT TOPIC:
